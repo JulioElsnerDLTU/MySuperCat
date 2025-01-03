@@ -1,16 +1,10 @@
-# mysupercat
+# MYSUPERCAT
 
-A new Flutter project.
-
+A project for using CATS API 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Example of Exam 2023-02
+- [Use: CatApi]())[https://docs.flutter.dev/get-started/codelab](https://thecatapi.com/]
+<br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![Cat](https://i0.wp.com/thatapicompany.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-24-at-10.07.43-AM.png?fit=580%2C480&ssl=1)
